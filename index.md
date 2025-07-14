@@ -1,1 +1,3 @@
 **Krishnakumar AP**
+
+I am a researcher in meteorology, I am focusing on atmospheric aerosols, especially dust aerosols, and their interactions with clouds and the weather. 
