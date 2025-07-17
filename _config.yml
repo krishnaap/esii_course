@@ -1,4 +1,4 @@
-title: Krishna's ESII training portfolio
-remote_theme: pages-themes/modernist@v0.2.0
+title: Krishna ESII training portfolio
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
