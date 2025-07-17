@@ -4,3 +4,11 @@ plugins:
 collections:
   - sections
 
+title: "Krishna's ESIIL training portfolio"
+subtitle: "Researcher in Meteorology"
+description: "Dust aerosol specialist impacting weather & climate"
+avatar: /assets/images/krishna.jpg
+baseurl: "/esiil_course"
+url: "https://krishnaap.github.io"
+email: krishnaap7@gmail.com
+
