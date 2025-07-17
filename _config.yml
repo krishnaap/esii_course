@@ -1,9 +1,10 @@
 title: Krishna's ESIIL training portfolio
+description: Researcher in meteorology specializing in dust aerosols
 remote_theme: chrisbobbe/jekyll-theme-prologue
 plugins:
   - jekyll-remote-theme
-
-# Optional customization
-description: Researcher in meteorology specializing in dust aerosols
-show_downloads: false
-email: krishnaap 7 @gmail.com
+collections:
+  - sections
+email: krishnaap7@gmail.com
+baseurl: "/esiil_course"       # project-site path
+url: "https://krishnaap.github.io"
