@@ -1,0 +1,10 @@
+<ul class="icons">
+  {% for profile in site.socials %}
+    <li>
+      <a href="{{ profile.url }}" target="_blank">
+        <span class="icon {{ profile.icon }} {% if profile.icon_style %}{{ profile.icon_style }}{% endif %}"></span>
+        <span class="label">{{ profile.name }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
