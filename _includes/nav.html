@@ -1,0 +1,16 @@
+<nav id="nav">
+  <ul>
+    {%- for section in site.sections | sort: 'order' -%}
+      {%- unless section.hide -%}
+        <li>
+          <a href="#{{ section.title | slugify }}">
+            {% if section.icon %}
+              <span class="icon {{ section.icon }} {% if section.icon_style %}{{ section.icon_style }}{% endif %}"></span>
+            {% endif %}
+            {{ section.title }}
+          </a>
+        </li>
+      {%- endunless -%}
+    {%- endfor -%}
+  </ul>
+</nav>
