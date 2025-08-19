@@ -4,7 +4,8 @@ plugins:
 collections:
   - sections
 include:
-  - assets/css/custom.css  
+  - assets/css/custom.css
+  
 google_analytics: G-FKP34PZYF2  
 title: "Krishnakumar's Portfolio"
 subtitle: "Researcher in Meteorology"
