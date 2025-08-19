@@ -9,3 +9,8 @@ h1 { font-size: 28px; }
 h2 { font-size: 22px; }
 h3 { font-size: 18px; }
 h4 { font-size: 16px; }
+
+
+/* Hide icon for the first nav link only */
+#nav ul li:first-child a .icon {
+  display: none;
