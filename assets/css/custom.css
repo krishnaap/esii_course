@@ -1,8 +1,7 @@
 /* Hide nav icons so only text is visible */
-#nav ul li a .icon.fa-link {
-  display: none! important;
+.icons .icon {
+    margin-right: 0.4rem;
 }
-
 
 /* Reduce base font size */
 body {
