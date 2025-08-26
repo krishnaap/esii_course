@@ -11,3 +11,13 @@ h2 { font-size: 22px; }
 h3 { font-size: 18px; }
 h4 { font-size: 16px; }
 
+
+#header .image.avatar {
+  margin-right: 0.75rem; /* adjust spacing */
+}
+
+a .icon,
+a svg,
+a .emoji {
+  margin-right: 0.25rem;
+}
