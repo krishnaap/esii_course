@@ -23,3 +23,8 @@ socials:
     #icon: fa-graduation-cap
     #icon-style: solid
 
+
+menus:
+  main:
+    - title: About
+      url: /esiil_course/about/
